@@ -1,2 +1,2 @@
 # k8s_101
-practise
+some personal exercises related to k8s
